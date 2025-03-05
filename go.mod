@@ -1,3 +1,3 @@
-module github.com/dath42/sso-contracts
+module github.com/dath42/sso-contracts-test
 
 go 1.24.0
